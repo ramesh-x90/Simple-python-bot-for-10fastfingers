@@ -69,6 +69,7 @@ fun1();
 ```
 
 4. [visit 10ff.net] (https://10ff.net/)
+[Admin Panel] (http://127.0.0.1:8080/admin/)
 
 5. open the saved bookmark
 
