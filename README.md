@@ -72,6 +72,6 @@ fun1();
 
 5. open the saved bookmark
 
-6. Save the word.txt in same folder 
+6. Save the words.txt in same folder 
 
 5. execute 10ff.py
