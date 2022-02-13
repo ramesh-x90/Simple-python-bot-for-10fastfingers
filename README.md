@@ -68,7 +68,7 @@ function fun1() {
 fun1();
 ```
 
-4. visit [10ff.net] (https://10ff.net/)
+4. [visit 10ff.net] (https://10ff.net/)
 
 5. open the saved bookmark
 
